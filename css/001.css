@@ -389,7 +389,7 @@ nav{
 
 #chif3{
     width: 120px; height: 120px;
-    background-image: url('/images/avatar-05.jpg');
+    background-image: url('../images/avatar-05.jpg');
     background-position: center;
     background-size: 120px;
     border: red solid;
